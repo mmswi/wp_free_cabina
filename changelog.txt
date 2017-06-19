@@ -1,0 +1,87 @@
+
+
+	ābito
+
+	Created by Fedeweb - http://www.fedeweb.net
+
+	- - - - - - - - - - - - - - - - - - - - - - -
+
+	Version 1.3.3 - 19 Feb / 2016
+	
+	Fixed: WordPress image uploader now works properly
+
+	- - - - - - - - - - - - - - - - - - - - - - -
+
+	Version 1.3.2 - 30 Nov / 2015
+
+	Fixed: next stories layout on single post
+	Fixed: images alignment and images default caption now work properly
+	Fixed: share button when you don't have any tags
+	Fixed: fixed distance between items on creative grid on the first page load
+
+	- - - - - - - - - - - - - - - - - - - - - - -
+
+	Version 1.3.1 - 30 Sep / 2015
+
+	Fixed: margin between the title and the content on pages
+	Fixed: if any "special" title is not set in pages, it takes the "normal" title by default
+
+	- - - - - - - - - - - - - - - - - - - - - - -
+
+	Version 1.3 - 28 Sep / 2015
+
+	Added: header section in theme options
+	Added: you can set the height of the logo
+	Added: you can set the dark menu also for the home page
+	Updated: masonry grid is set as default
+	Updated: the documentation
+	Updated: change some visual element for a better looking (next stories section, sidebar)
+	Fixed: prevent zoom on map when you scroll the page
+	Fixed: if any "special" title is not set, it takes the post/page title by default
+	Fixed: if the featured image it’s not set, it takes the excerpt (it works only with masonry grid)
+	Fixed: social button on single post, when you don’t have the tag section
+	Fixed: mobile menu now works properly
+	Fixed: navigation arrows on Firefox
+
+	- - - - - - - - - - - - - - - - - - - - - - -
+
+	Version 1.2 - 23 Sep / 2015
+
+	Added: you can show the category or the date post in grids
+	Updated: you can remove the post meta (author, category, post date and social)
+	Updated: change the format date for posts in the grid
+	Updated: you can close the sidebar when you click on the page
+	Updated: you can add call to action in the menu bar
+	Updated: documentation
+	Fixed: Safari transitions
+	Fixed: documentation link in Theme Options
+
+	- - - - - - - - - - - - - - - - - - - - - - -
+
+	Version 1.1 - 16 Sep / 2015
+
+	Added: Creative Grid
+	Added: desktop menu. You can enable Hamburger Menu for desktop website
+	Added: you can remove the preloader between pages
+	Updated: change the body font to Roboto
+	Updated: sidebar icon
+	Updated: you can decide to keep masonry grid on 2 columns with high resolutions
+	Fixed: google map now works properly
+	Fixed: hover state on footer icons in Microsoft Edge
+
+	- - - - - - - - - - - - - - - - - - - - - - -
+
+	Version 1.0.1 - 13 Aug / 2015
+
+	Fixed: Improve speed when you open left and right panels
+	Fixed: galleries on mobile
+	Fixed: scrolling on mobile devices in some browsers (like native browser in Samsung smartphones)
+
+	- - - - - - - - - - - - - - - - - - - - - - -
+
+	Version 1.0 - 10 Aug / 2015
+
+	First Release
+
+	- - - - - - - - - - - - - - - - - - - - - - -
+
